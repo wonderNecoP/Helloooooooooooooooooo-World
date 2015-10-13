@@ -1,2 +1,4 @@
 # Helloooooooooooooooooo-World
-Sample Repository.
+
+This is a Sample Repository.
+I wrote this reading Hellow World tutorial.
